@@ -70,7 +70,8 @@
 2. 알고리즘을 쉬운 것부터 공부하고 싶으면, 아래 링크의 리스트를 따라 문제를 풀며 모르는 내용을 찾아보면서 공부하는 것을 추천함 
     https://www.acmicpc.net/step 
 3. 이후에 사전지식이 필요한 Medium 이나 Hard 문제를 풀고 싶으면,  아래 책들을 추천함
-
+    - 알고리즘 트레이닝 책은 파란책이 구판이고 초록책이 최신판인데, 구판 구할 수 있으면 구판이 좀 더 코드를 중심으로 설명하기 때문에 입문자에게 낫긴 합니다.
+  
     ![image](https://user-images.githubusercontent.com/37409087/222962846-04f344b7-c785-4d78-85f5-8f6b7eea30f4.png)
     ![image](https://user-images.githubusercontent.com/37409087/222962859-9ccc3eff-9a5d-4d10-a53d-417c10f176fd.png)
 
