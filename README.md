@@ -61,6 +61,7 @@
 
 ### 강의자
 - [신현](https://github.com/kyaryunha) - 한양대학교 컴퓨터소프트웨어학부 19학번  
+    - 리트코드 3개월차 뉴비(?) - https://leetcode.com/kyaryunha/ 
 
 ### 세미나에서 다루지 않지만 함께 보면 좋은 자료
 
